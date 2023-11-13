@@ -1,0 +1,10 @@
+.file_upload{
+  border: none;
+  background: transparent;
+}
+.lowercase{
+  text-transform: lowercase !important;
+}
+/* .delete_file{
+  display: none;
+} */
